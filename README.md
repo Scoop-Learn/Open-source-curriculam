@@ -18,14 +18,21 @@ Some Good courses of python
 4. The Python Bible | Everything You Need to Program in Python
 5. Python for Everybody Specialization 
 
-Some Good courses of javascript:
+Some Good courses of javascript
 
+1.Advanced JavaScript Concepts
+2.The Complete JavaScript Course 2020: Build Real Projects!
+3.Learn JavaScript with Codeacademy
+4.Explore and Master Chrome DevTools
+5.JavaScript for Beginners
 
-1.Advanced JavaScript Concepts. ...
-2.The Complete JavaScript Course 2020: Build Real Projects! ...
-3.Learn JavaScript with Codeacademy. ...
-4.Explore and Master Chrome DevTools. ...
-5.JavaScript for Beginners. ...
+Good repo of awesome projects using python 
+
+1.https://github.com/harishsg99/My-Week-end-products 
+2.https://github.com/MiracleYoung/You-are-Pythonista
+Good repo of awesome projects using Javascipt
+
+1.https://github.com/strongdan/beginner-js-projects
 
 # Try to master Datastructures and algorithms
 

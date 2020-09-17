@@ -94,7 +94,6 @@ Top rated CS fields are the following
   * Encryption explicitly
   * Decryption explicitly
 2. IOT(Internet of Things)
-
 3. Frontend developer
 4. Backend  developer
 5. Machine learning

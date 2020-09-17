@@ -79,7 +79,22 @@ Try to build some awesome projects on various field of CS
 Top rated CS fields are the following 
 
 1. Cybersecurity
+  * Network security
+  * Application Security
+  * Mobile Security
+  *  Malware/Spyware Analysis
+  * Risk Audit/Management
+  * Cyber Forensics
+  * Penetration Tester
+  * Network security analyst
+  * Security analyst
+  * OS security
+  * System security (user level)
+  * System security (kernel level
+  * Encryption explicitly
+  * Decryption explicitly
 2. IOT(Internet of Things)
+
 3. Frontend developer
 4. Backend  developer
 5. Machine learning

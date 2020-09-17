@@ -30,6 +30,8 @@ Good repo of awesome projects using python
 
 1.https://github.com/harishsg99/My-Week-end-products 
 2.https://github.com/MiracleYoung/You-are-Pythonista
+
+
 Good repo of awesome projects using Javascipt
 
 1.https://github.com/strongdan/beginner-js-projects

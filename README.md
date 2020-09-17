@@ -6,7 +6,7 @@ This contains curriculam for anyone can get jobs in top companies!!
 
 students must have basic problem solving skills and some interest in math
 
-# Take a simple and powerful languages such as python or javascript
+# Learn a simple and powerful languages such as python or javascript
 
 Take some good courses on python and javascript and try to build small projects your preferred language you took 
 This may take some 3 to 4 months

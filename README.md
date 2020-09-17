@@ -76,6 +76,16 @@ watch some videos on youtube to learn how DB works.
 Try to take some courses on paid websites such as Coursera , udemy , lynda etc
 Try to build some awesome projects on various field of CS
 
+Top rated CS fields are the following 
+
+1. Cybersecurity
+2. IOT(Internet of Things)
+3. Frontend developer
+4. Backend  developer
+5. Machine learning
+6. Data Science Engineer
+7. Blockchain developers
+
 # Interview Preparations
 
 # Sample Resumes of top googlers and Microsoft Employees

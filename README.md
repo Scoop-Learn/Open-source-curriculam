@@ -1,6 +1,6 @@
 
 # Open-source-curriculam
-This contains curriculam for anyone to become CS engineers and developers
+This contains curriculam for anyone can get jobs in top companies!!
 
 # Getting started!!!
 
@@ -59,5 +59,8 @@ watch some videos on youtube to learn how DB works.
 Try to take some courses on paid websites such as Coursera , udemy , lynda etc
 Try to build some awesome projects on various field of CS
 
+# Interview Preparations
+
+# Sample Resumes of top googlers and Microsoft Employees
 
 # I will be adding more courses and MOOCs in comming weeks !!!

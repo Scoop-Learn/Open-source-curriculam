@@ -92,6 +92,6 @@ Top rated CS fields are the following
 
 # Sample Resumes of top googlers and Microsoft Employees
 
-# R&D powered tech entreprenership 
+# R&D powered tech entrepreneurship 
 
 # I will be adding more courses and MOOCs in comming weeks !!!

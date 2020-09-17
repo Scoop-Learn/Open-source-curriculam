@@ -55,6 +55,23 @@ Prefered Books:
 Install your favourite OS in your PC and try to explore varoius features of OS 
 watch some videos on youtube to learn how DB works.
 
+6 Best Operating System Courses Online:
+
+1. Operating Systems and You: Becoming a Power User by Google[Coursera]
+2. Computer Hardware and Operating Systems by the NYU [edX]
+3. FREE – Introduction to Operating Systems By Georgia Tech[Udacity]
+4. Operating Systems from Scratch: Part 1 [Udemy]
+5. Understand Operating System Concepts [Udemy]
+6.  Introduction to Operating Systems Revised [Alison]
+
+5 best Database courses Online
+
+1. The Complete SQL Bootcamp
+2. SQL for Newbs: Data Analysis for Beginners
+3. SQL & Database Design A-Z™: Learn MS SQL Server + PostgreSQL
+4. Oracle SQL: Become a Certified SQL Developer From Scratch!
+5. 200+ SQL Interview Questions
+
 # Try to explore various fields in CS such as Web dev App dev etc
 Try to take some courses on paid websites such as Coursera , udemy , lynda etc
 Try to build some awesome projects on various field of CS

@@ -32,7 +32,7 @@ Good repo of awesome projects using python
 2.https://github.com/MiracleYoung/You-are-Pythonista
 
 
-Good repo of awesome projects using Javascipt
+Good repo of awesome projects using Javascript
 
 1.https://github.com/strongdan/beginner-js-projects
 

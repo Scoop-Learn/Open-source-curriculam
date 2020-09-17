@@ -40,8 +40,10 @@ Good repo of awesome projects using Javascript
 
 Take some good courses on Datastructures and algorithm I prefer reading books then try to solve problems from competitive programming sites such as CodeChef and Hackkerrank
 This may take some 1 to 2 months
+
 1. JavaScript Algorithms and Data Structures Masterclass
 2. Learning Data Structure and Algorithms in Python from Scratch
+3. Master the Coding Interview: Data Structures + Algorithms
 
 # Try to learn how system utilities such as OS , Databases works from inside 
 

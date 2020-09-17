@@ -105,6 +105,7 @@ Top rated CS fields are the following
 9. Mobile App development
 
 # Interview Preparations from industry experts
+https://github.com/arora-aditya/google-technical-interview-workshop
  
 # Sample Resumes of top googlers and Microsoft Employees
 https://tiny.cc/pg-resume

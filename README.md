@@ -28,13 +28,13 @@ Some Good courses of javascript
 
 Good repo of awesome projects using python 
 
-1.https://github.com/harishsg99/My-Week-end-products 
-2.https://github.com/MiracleYoung/You-are-Pythonista
+1. https://github.com/harishsg99/My-Week-end-products 
+2. https://github.com/MiracleYoung/You-are-Pythonista
 
 
 Good repo of awesome projects using Javascript
 
-1.https://github.com/strongdan/beginner-js-projects
+1. https://github.com/strongdan/beginner-js-projects
 
 # Try to master Datastructures and algorithms
 

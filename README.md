@@ -110,7 +110,12 @@ Top rated CS fields are the following
 
 # Youtube video for interview (How to get into Google etc)
 
-# R&D powered tech entrepreneurship 
+# R&D powered tech entrepreneurship resources
+1. https://github.com/charlax/entrepreneurship-resources
+2. https://github.com/mijustin/2018-conferences
+3. https://github.com/bt3gl/Awesome_Entrepreneur
+4. https://amazingandyyy.com/startupschools19/
+5. http://www.paulgraham.com/
 
 # I will be adding more courses and MOOCs in comming weeks !!!
 

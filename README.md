@@ -107,6 +107,7 @@ Top rated CS fields are the following
 # Interview Preparations from industry experts
  
 # Sample Resumes of top googlers and Microsoft Employees
+https://tiny.cc/pg-resume
 
 # Youtube video for interview (How to get into Google etc)
 

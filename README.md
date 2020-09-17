@@ -1,6 +1,6 @@
 
 # Open-source-curriculam
-This contains curriculam for anyone to become CS engineers
+This contains curriculam for anyone to become CS engineers and developers
 
 # Getting started!!!
 
@@ -20,11 +20,11 @@ Some Good courses of python
 
 Some Good courses of javascript
 
-1.Advanced JavaScript Concepts
-2.The Complete JavaScript Course 2020: Build Real Projects!
-3.Learn JavaScript with Codeacademy
-4.Explore and Master Chrome DevTools
-5.JavaScript for Beginners
+1. Advanced JavaScript Concepts
+2. The Complete JavaScript Course 2020: Build Real Projects!
+3. Learn JavaScript with Codeacademy
+4. Explore and Master Chrome DevTools
+5. JavaScript for Beginners
 
 Good repo of awesome projects using python 
 
@@ -40,7 +40,8 @@ Good repo of awesome projects using Javascript
 
 Take some good courses on Datastructures and algorithm I prefer reading books then try to solve problems from competitive programming sites such as CodeChef and Hackkerrank
 This may take some 1 to 2 months
-
+1. JavaScript Algorithms and Data Structures Masterclass
+2. Learning Data Structure and Algorithms in Python from Scratch
 
 # Try to learn how system utilities such as OS , Databases works from inside 
 

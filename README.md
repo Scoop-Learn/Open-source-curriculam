@@ -1,6 +1,6 @@
 
 # Open-source-curriculam
-This contains curriculam to anyone to become CS engineers
+This contains curriculam for anyone to become CS engineers
 
 # Getting started!!!
 

@@ -11,12 +11,19 @@ students must have basic problem solving skills and some interest in math
 Take some good courses on python and javascript and try to build small projects your preferred language you took 
 This may take some 3 to 4 months
 Some Good courses of python
+
 1. Complete Python Bootcamp: Go From Zero to Hero in Python 3
 2. 30 Days of Python | Unlock your Python Potential
 3. Complete Python Masterclass
 4. The Python Bible | Everything You Need to Program in Python
 5. Python for Everybody Specialization 
 Some Good courses of javascript:
+
+1.Advanced JavaScript Concepts. ...
+2.The Complete JavaScript Course 2020: Build Real Projects! ...
+3.Learn JavaScript with Codeacademy. ...
+4.Explore and Master Chrome DevTools. ...
+5.JavaScript for Beginners. ...
 
 # Try to master Datastructures and algorithms
 

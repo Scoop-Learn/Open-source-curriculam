@@ -45,6 +45,11 @@ This may take some 1 to 2 months
 2. Learning Data Structure and Algorithms in Python from Scratch
 3. Master the Coding Interview: Data Structures + Algorithms
 
+Prefered Books:
+1. Data Structures and Algorithms in Python Hardcover
+2. Introduction to Algorithms By CLRS
+3. The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World
+
 # Try to learn how system utilities such as OS , Databases works from inside 
 
 Install your favourite OS in your PC and try to explore varoius features of OS 

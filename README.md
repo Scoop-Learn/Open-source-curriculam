@@ -111,6 +111,7 @@ https://github.com/arora-aditya/google-technical-interview-workshop
 https://tiny.cc/pg-resume
 
 # Youtube video for interview (How to get into Google etc)
+1. https://www.youtube.com/watch?v=fNpQrYwxsvo
 
 # R&D powered tech entrepreneurship resources
 1. https://github.com/charlax/entrepreneurship-resources

@@ -103,7 +103,7 @@ Top rated CS fields are the following
 8. System Engineers
 9. Mobile App development
 
-# Interview Preparations
+# Interview Preparations from industry experts
  
 # Sample Resumes of top googlers and Microsoft Employees
 

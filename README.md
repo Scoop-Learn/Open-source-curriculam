@@ -1,6 +1,6 @@
 
 # Open-source-curriculam
-This contains curriculam for anyone can get jobs in top companies!!
+This contains curriculam for anyone can get jobs in top companies or to start tech startup
 
 # Getting started!!!
 

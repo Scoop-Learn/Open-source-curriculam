@@ -17,7 +17,9 @@ Some Good courses of python
 3. Complete Python Masterclass
 4. The Python Bible | Everything You Need to Program in Python
 5. Python for Everybody Specialization 
+
 Some Good courses of javascript:
+
 
 1.Advanced JavaScript Concepts. ...
 2.The Complete JavaScript Course 2020: Build Real Projects! ...

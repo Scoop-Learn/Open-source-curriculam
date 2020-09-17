@@ -86,6 +86,7 @@ Top rated CS fields are the following
 6. Data Science Engineer
 7. Blockchain developers
 8. System Engineers
+9. Mobile App development
 
 # Interview Preparations
 
